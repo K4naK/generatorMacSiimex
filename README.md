@@ -1,1 +1,1 @@
-# generatorMacSiimex
+# Generador de claves MAC SIIMEX
